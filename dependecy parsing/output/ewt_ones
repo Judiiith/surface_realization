@@ -1,0 +1,4 @@
+# IRTG unannotated corpus file, v1.0
+# interpretation ud: de.up.ling.irtg.algebra.graph.GraphAlgebra
+(come_0 / come_0 :nsubj (story_0 / story_0) :obl (AP_0 / AP_0 :det (the_0 / the_0) :case (from_0 / from_0)) :punct (COLON_0 / COLON_0))
+(dummy_0 / dummy_0)

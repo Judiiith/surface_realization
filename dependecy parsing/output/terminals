@@ -1,0 +1,4084 @@
+NN -> NN_story
+[string] story
+[ud] "(story<root> / story)"
+
+DT -> DT_this
+[string] this
+[ud] "(this<root> / this)"
+
+VBZ -> VBZ_come
+[string] come
+[ud] "(come<root> / come)"
+
+DT -> DT_the
+[string] the
+[ud] "(the<root> / the)"
+
+NNP -> NNP_AP
+[string] AP
+[ud] "(AP<root> / AP)"
+
+IN -> IN_from
+[string] from
+[ud] "(from<root> / from)"
+
+COLON -> COLON_COLON
+[string] COLON
+[ud] "(COLON<root> / COLON)"
+
+IN -> IN_on
+[string] on
+[ud] "(on<root> / on)"
+
+DT -> DT_the
+[string] the
+[ud] "(the<root> / the)"
+
+NNP -> NNP_Bush
+[string] Bush
+[ud] "(Bush<root> / Bush)"
+
+NNS -> NNS_jurist
+[string] jurist
+[ud] "(jurist<root> / jurist)"
+
+IN -> IN_on
+[string] on
+[ud] "(on<root> / on)"
+
+JJ -> JJ_federal
+[string] federal
+[ud] "(federal<root> / federal)"
+
+NNP -> NNP_President
+[string] President
+[ud] "(President<root> / President)"
+
+PERIOD -> PERIOD_PERIOD
+[string] PERIOD
+[ud] "(PERIOD<root> / PERIOD)"
+
+IN -> IN_in
+[string] in
+[ud] "(in<root> / in)"
+
+VBG -> VBG_retire
+[string] retire
+[ud] "(retire<root> / retire)"
+
+NNP -> NNP_Tuesday
+[string] Tuesday
+[ud] "(Tuesday<root> / Tuesday)"
+
+NNP -> NNP_Washington
+[string] Washington
+[ud] "(Washington<root> / Washington)"
+
+VBD -> VBD_nominate
+[string] nominate
+[ud] "(nominate<root> / nominate)"
+
+CD -> CD_two
+[string] two
+[ud] "(two<root> / two)"
+
+TO -> TO_to
+[string] to
+[ud] "(to<root> / to)"
+
+NNS -> NNS_court
+[string] court
+[ud] "(court<root> / court)"
+
+VB -> VB_replace
+[string] replace
+[ud] "(replace<root> / replace)"
+
+NN -> NN_area
+[string] area
+[ud] "(area<root> / area)"
+
+NNS -> NNS_individual
+[string] individual
+[ud] "(individual<root> / individual)"
+
+VBG -> VBG_replace
+[string] replace
+[ud] "(replace<root> / replace)"
+
+NNP -> NNP_WPERIOD
+[string] WPERIOD
+[ud] "(WPERIOD<root> / WPERIOD)"
+
+DT -> DT_the
+[string] the
+[ud] "(the<root> / the)"
+
+NNP -> NNP_Columbia
+[string] Columbia
+[ud] "(Columbia<root> / Columbia)"
+
+IN -> IN_as
+[string] as
+[ud] "(as<root> / as)"
+
+NNP -> NNP_Superior
+[string] Superior
+[ud] "(Superior<root> / Superior)"
+
+NNP -> NNP_Steffen
+[string] Steffen
+[ud] "(Steffen<root> / Steffen)"
+
+NN -> NN_term
+[string] term
+[ud] "(term<root> / term)"
+
+IN -> IN_for
+[string] for
+[ud] "(for<root> / for)"
+
+CD -> CD_DIGITDIGIT
+[string] DIGITDIGIT
+[ud] "(DIGITDIGIT<root> / DIGITDIGIT)"
+
+NNP -> NNP_Graae
+[string] Graae
+[ud] "(Graae<root> / Graae)"
+
+NN -> NN_judge
+[string] judge
+[ud] "(judge<root> / judge)"
+
+COMMA -> COMMA_COMMA
+[string] COMMA
+[ud] "(COMMA<root> / COMMA)"
+
+NNP -> NNP_Bush
+[string] Bush
+[ud] "(Bush<root> / Bush)"
+
+NN -> NN_year
+[string] year
+[ud] "(year<root> / year)"
+
+HYPH -> HYPH_HYPHEN
+[string] HYPHEN
+[ud] "(HYPHEN<root> / HYPHEN)"
+
+DT -> DT_the
+[string] the
+[ud] "(the<root> / the)"
+
+DT -> DT_a
+[string] a
+[ud] "(a<root> / a)"
+
+NNP -> NNP_Jennifer
+[string] Jennifer
+[ud] "(Jennifer<root> / Jennifer)"
+
+PERIOD -> PERIOD_PERIOD
+[string] PERIOD
+[ud] "(PERIOD<root> / PERIOD)"
+
+NNP -> NNP_MPERIOD
+[string] MPERIOD
+[ud] "(MPERIOD<root> / MPERIOD)"
+
+NNP -> NNP_Anderson
+[string] Anderson
+[ud] "(Anderson<root> / Anderson)"
+
+IN -> IN_of
+[string] of
+[ud] "(of<root> / of)"
+
+VBD -> VBD_nominate
+[string] nominate
+[ud] "(nominate<root> / nominate)"
+
+JJ -> JJ_associate
+[string] associate
+[ud] "(associate<root> / associate)"
+
+IN -> IN_of
+[string] of
+[ud] "(of<root> / of)"
+
+IN -> IN_of
+[string] of
+[ud] "(of<root> / of)"
+
+NNP -> NNP_Court
+[string] Court
+[ud] "(Court<root> / Court)"
+
+NNP -> NNP_District
+[string] District
+[ud] "(District<root> / District)"
+
+NFP -> NFP_ASTERISKASTERISKASTERISK
+[string] ASTERISKASTERISKASTERISK
+[ud] "(ASTERISKASTERISKASTERISK<root> / ASTERISKASTERISKASTERISK)"
+
+NNP -> NNP_Kramer
+[string] Kramer
+[ud] "(Kramer<root> / Kramer)"
+
+NNP -> NNP_John
+[string] John
+[ud] "(John<root> / John)"
+
+IN -> IN_of
+[string] of
+[ud] "(of<root> / of)"
+
+NN -> NN_term
+[string] term
+[ud] "(term<root> / term)"
+
+NNP -> NNP_APERIOD
+[string] APERIOD
+[ud] "(APERIOD<root> / APERIOD)"
+
+PERIOD -> PERIOD_PERIOD
+[string] PERIOD
+[ud] "(PERIOD<root> / PERIOD)"
+
+NNP -> NNP_District
+[string] District
+[ud] "(District<root> / District)"
+
+DT -> DT_a
+[string] a
+[ud] "(a<root> / a)"
+
+NNP -> NNP_Court
+[string] Court
+[ud] "(Court<root> / Court)"
+
+IN -> IN_of
+[string] of
+[ud] "(of<root> / of)"
+
+NN -> NN_year
+[string] year
+[ud] "(year<root> / year)"
+
+IN -> IN_as
+[string] as
+[ud] "(as<root> / as)"
+
+NNPS -> NNPS_Appeals
+[string] Appeals
+[ud] "(Appeals<root> / Appeals)"
+
+HYPH -> HYPH_HYPHEN
+[string] HYPHEN
+[ud] "(HYPHEN<root> / HYPHEN)"
+
+IN -> IN_of
+[string] of
+[ud] "(of<root> / of)"
+
+NNP -> NNP_Anketell
+[string] Anketell
+[ud] "(Anketell<root> / Anketell)"
+
+COMMA -> COMMA_COMMA
+[string] COMMA
+[ud] "(COMMA<root> / COMMA)"
+
+CD -> CD_DIGITDIGIT
+[string] DIGITDIGIT
+[ud] "(DIGITDIGIT<root> / DIGITDIGIT)"
+
+NNP -> NNP_Montague
+[string] Montague
+[ud] "(Montague<root> / Montague)"
+
+IN -> IN_for
+[string] for
+[ud] "(for<root> / for)"
+
+VBG -> VBG_replace
+[string] replace
+[ud] "(replace<root> / replace)"
+
+RB -> RB_also
+[string] also
+[ud] "(also<root> / also)"
+
+NNP -> NNP_Bush
+[string] Bush
+[ud] "(Bush<root> / Bush)"
+
+NN -> NN_judge
+[string] judge
+[ud] "(judge<root> / judge)"
+
+NNP -> NNP_Noel
+[string] Noel
+[ud] "(Noel<root> / Noel)"
+
+NNP -> NNP_Steadman
+[string] Steadman
+[ud] "(Steadman<root> / Steadman)"
+
+VBD -> VBD_nominate
+[string] nominate
+[ud] "(nominate<root> / nominate)"
+
+DT -> DT_the
+[string] the
+[ud] "(the<root> / the)"
+
+JJ -> JJ_associate
+[string] associate
+[ud] "(associate<root> / associate)"
+
+NNP -> NNP_Columbia
+[string] Columbia
+[ud] "(Columbia<root> / Columbia)"
+
+NN -> NN_wheel
+[string] wheel
+[ud] "(wheel<root> / wheel)"
+
+NN -> NN_f
+[string] f
+[ud] "(f<root> / f)"
+
+VBZ -> VBZ_have
+[string] have
+[ud] "(have<root> / have)"
+
+IN -> IN_with
+[string] with
+[ud] "(with<root> / with)"
+
+DT -> DT_a
+[string] a
+[ud] "(a<root> / a)"
+
+HYPH -> HYPH_HYPHEN
+[string] HYPHEN
+[ud] "(HYPHEN<root> / HYPHEN)"
+
+NN -> NN_bomb
+[string] bomb
+[ud] "(bomb<root> / bomb)"
+
+HYPH -> HYPH_HYPHEN
+[string] HYPHEN
+[ud] "(HYPHEN<root> / HYPHEN)"
+
+CD -> CD_DIGITDIGIT
+[string] DIGITDIGIT
+[ud] "(DIGITDIGIT<root> / DIGITDIGIT)"
+
+IN -> IN_in
+[string] in
+[ud] "(in<root> / in)"
+
+HYPH -> HYPH_HYPHEN
+[string] HYPHEN
+[ud] "(HYPHEN<root> / HYPHEN)"
+
+NN -> NN_sheikh
+[string] sheikh
+[ud] "(sheikh<root> / sheikh)"
+
+VBN -> VBN_be
+[string] be
+[ud] "(be<root> / be)"
+
+PERIOD -> PERIOD_PERIOD
+[string] PERIOD
+[ud] "(PERIOD<root> / PERIOD)"
+
+DT -> DT_the
+[string] the
+[ud] "(the<root> / the)"
+
+VBN -> VBN_attack
+[string] attack
+[ud] "(attack<root> / attack)"
+
+NN -> NN_chair
+[string] chair
+[ud] "(chair<root> / chair)"
+
+VBN -> VBN_launch
+[string] launch
+[ud] "(launch<root> / launch)"
+
+VBP -> VBP_have
+[string] have
+[ud] "(have<root> / have)"
+
+PRP -> PRP_he
+[string] he
+[ud] "(he<root> / he)"
+
+RB -> RB_ago
+[string] ago
+[ud] "(ago<root> / ago)"
+
+VBZ -> VBZ_be
+[string] be
+[ud] "(be<root> / be)"
+
+VBN -> VBN_kill
+[string] kill
+[ud] "(kill<root> / kill)"
+
+DT -> DT_the
+[string] the
+[ud] "(the<root> / the)"
+
+NNS -> NNS_year
+[string] year
+[ud] "(year<root> / year)"
+
+MD -> MD_could
+[string] could
+[ud] "(could<root> / could)"
+
+CC -> CC_and
+[string] and
+[ud] "(and<root> / and)"
+
+VBD -> VBD_do
+[string] do
+[ud] "(do<root> / do)"
+
+PRP -> PRP_he
+[string] he
+[ud] "(he<root> / he)"
+
+VB -> VB_be
+[string] be
+[ud] "(be<root> / be)"
+
+RB -> RB_not
+[string] not
+[ud] "(not<root> / not)"
+
+PRP -> PRP_they
+[string] they
+[ud] "(they<root> / they)"
+
+DT -> DT_the
+[string] the
+[ud] "(the<root> / the)"
+
+CC -> CC_but
+[string] but
+[ud] "(but<root> / but)"
+
+IN -> IN_since
+[string] since
+[ud] "(since<root> / since)"
+
+PDT -> PDT_all
+[string] all
+[ud] "(all<root> / all)"
+
+NNP -> NNP_Hamas
+[string] Hamas
+[ud] "(Hamas<root> / Hamas)"
+
+COMMA -> COMMA_COMMA
+[string] COMMA
+[ud] "(COMMA<root> / COMMA)"
+
+PERIOD -> PERIOD_PERIOD
+[string] PERIOD
+[ud] "(PERIOD<root> / PERIOD)"
+
+PRP -> PRP_he
+[string] he
+[ud] "(he<root> / he)"
+
+VBD -> VBD_found
+[string] found
+[ud] "(found<root> / found)"
+
+IN -> IN_of
+[string] of
+[ud] "(of<root> / of)"
+
+JJ -> JJ_spiritual
+[string] spiritual
+[ud] "(spiritual<root> / spiritual)"
+
+NNPS -> NNPS_israelians
+[string] israelians
+[ud] "(israelians<root> / israelians)"
+
+NNS -> NNS_reason
+[string] reason
+[ud] "(reason<root> / reason)"
+
+CC -> CC_and
+[string] and
+[ud] "(and<root> / and)"
+
+DT -> DT_the
+[string] the
+[ud] "(the<root> / the)"
+
+COMMA -> COMMA_COMMA
+[string] COMMA
+[ud] "(COMMA<root> / COMMA)"
+
+NN -> NN_leader
+[string] leader
+[ud] "(leader<root> / leader)"
+
+CC -> CC_and
+[string] and
+[ud] "(and<root> / and)"
+
+NN -> NN_patience
+[string] patience
+[ud] "(patience<root> / patience)"
+
+NN -> NN_incident
+[string] incident
+[ud] "(incident<root> / incident)"
+
+PRPDOLLAR -> PRPDOLLAR_he
+[string] he
+[ud] "(he<root> / he)"
+
+NNP -> NNP_Sharon
+[string] Sharon
+[ud] "(Sharon<root> / Sharon)"
+
+IN -> IN_that
+[string] that
+[ud] "(that<root> / that)"
+
+VBZ -> VBZ_have
+[string] have
+[ud] "(have<root> / have)"
+
+NN -> NN_peace
+[string] peace
+[ud] "(peace<root> / peace)"
+
+PERIOD -> PERIOD_PERIOD
+[string] PERIOD
+[ud] "(PERIOD<root> / PERIOD)"
+
+NN -> NN_hope
+[string] hope
+[ud] "(hope<root> / hope)"
+
+PRPDOLLAR -> PRPDOLLAR_he
+[string] he
+[ud] "(he<root> / he)"
+
+NN -> NN_today
+[string] today
+[ud] "(today<root> / today)"
+
+VBN -> VBN_lose
+[string] lose
+[ud] "(lose<root> / lose)"
+
+VBZ -> VBZ_prove
+[string] prove
+[ud] "(prove<root> / prove)"
+
+POS -> POS_SQs
+[string] SQs
+[ud] "(SQs<root> / SQs)"
+
+IN -> IN_in
+[string] in
+[ud] "(in<root> / in)"
+
+JJ -> JJ_nervous
+[string] nervous
+[ud] "(nervous<root> / nervous)"
+
+NNS -> NNS_mistake
+[string] mistake
+[ud] "(mistake<root> / mistake)"
+
+PERIOD -> PERIOD_PERIOD
+[string] PERIOD
+[ud] "(PERIOD<root> / PERIOD)"
+
+VBP -> VBP_suppose
+[string] suppose
+[ud] "(suppose<root> / suppose)"
+
+MD -> MD_will
+[string] will
+[ud] "(will<root> / will)"
+
+NN -> NN_wave
+[string] wave
+[ud] "(wave<root> / wave)"
+
+JJ -> JJ_arab
+[string] arab
+[ud] "(arab<root> / arab)"
+
+DT -> DT_a
+[string] a
+[ud] "(a<root> / a)"
+
+IN -> IN_of
+[string] of
+[ud] "(of<root> / of)"
+
+VBP -> VBP_make
+[string] make
+[ud] "(make<root> / make)"
+
+NNS -> NNS_people
+[string] people
+[ud] "(people<root> / people)"
+
+JJ -> JJ_succesfull
+[string] succesfull
+[ud] "(succesfull<root> / succesfull)"
+
+VB -> VB_be
+[string] be
+[ud] "(be<root> / be)"
+
+EX -> EX_there
+[string] there
+[ud] "(there<root> / there)"
+
+RB -> RB_so
+[string] so
+[ud] "(so<root> / so)"
+
+COMMA -> COMMA_COMMA
+[string] COMMA
+[ud] "(COMMA<root> / COMMA)"
+
+PRP -> PRP_I
+[string] I
+[ud] "(I<root> / I)"
+
+NNS -> NNS_attack
+[string] attack
+[ud] "(attack<root> / attack)"
+
+FW -> FW_a
+[string] a
+[ud] "(a<root> / a)"
+
+PERIOD -> PERIOD_EXC
+[string] EXC
+[ud] "(EXC<root> / EXC)"
+
+FW -> FW_guerre
+[string] guerre
+[ud] "(guerre<root> / guerre)"
+
+FW -> FW_a
+[string] a
+[ud] "(a<root> / a)"
+
+FW -> FW_la
+[string] la
+[ud] "(la<root> / la)"
+
+FW -> FW_comme
+[string] comme
+[ud] "(comme<root> / comme)"
+
+FW -> FW_la
+[string] la
+[ud] "(la<root> / la)"
+
+FW -> FW_cSQest
+[string] cSQest
+[ud] "(cSQest<root> / cSQest)"
+
+FW -> FW_guerre
+[string] guerre
+[ud] "(guerre<root> / guerre)"
+
+COMMA -> COMMA_COMMA
+[string] COMMA
+[ud] "(COMMA<root> / COMMA)"
+
+NN -> NN_bomb
+[string] bomb
+[ud] "(bomb<root> / bomb)"
+
+DT -> DT_a
+[string] a
+[ud] "(a<root> / a)"
+
+NN -> NN_police
+[string] police
+[ud] "(police<root> / police)"
+
+NNS -> NNS_people
+[string] people
+[ud] "(people<root> / people)"
+
+NN -> NN_city
+[string] city
+[ud] "(city<root> / city)"
+
+JJ -> JJ_several
+[string] several
+[ud] "(several<root> / several)"
+
+COMMA -> COMMA_COMMA
+[string] COMMA
+[ud] "(COMMA<root> / COMMA)"
+
+JJ -> JJ_eastern
+[string] eastern
+[ud] "(eastern<root> / eastern)"
+
+NN -> NN_car
+[string] car
+[ud] "(car<root> / car)"
+
+VBG -> VBG_kill
+[string] kill
+[ud] "(kill<root> / kill)"
+
+IN -> IN_of
+[string] of
+[ud] "(of<root> / of)"
+
+DT -> DT_the
+[string] the
+[ud] "(the<root> / the)"
+
+PERIOD -> PERIOD_PERIOD
+[string] PERIOD
+[ud] "(PERIOD<root> / PERIOD)"
+
+NNS -> NNS_guerrilla
+[string] guerrilla
+[ud] "(guerrilla<root> / guerrilla)"
+
+IN -> IN_outside
+[string] outside
+[ud] "(outside<root> / outside)"
+
+IN -> IN_in
+[string] in
+[ud] "(in<root> / in)"
+
+DT -> DT_a
+[string] a
+[ud] "(a<root> / a)"
+
+NNP -> NNP_Baqubah
+[string] Baqubah
+[ud] "(Baqubah<root> / Baqubah)"
+
+NN -> NN_station
+[string] station
+[ud] "(station<root> / station)"
+
+VBD -> VBD_detonate
+[string] detonate
+[ud] "(detonate<root> / detonate)"
+
+NN -> NN_time
+[string] time
+[ud] "(time<root> / time)"
+
+JJ -> JJ_safe
+[string] safe
+[ud] "(safe<root> / safe)"
+
+DT -> DT_the
+[string] the
+[ud] "(the<root> / the)"
+
+NNP -> NNP_Habbaniyah
+[string] Habbaniyah
+[ud] "(Habbaniyah<root> / Habbaniyah)"
+
+VBD -> VBD_be
+[string] be
+[ud] "(be<root> / be)"
+
+JJ -> JJ_hostile
+[string] hostile
+[ud] "(hostile<root> / hostile)"
+
+IN -> IN_near
+[string] near
+[ud] "(near<root> / near)"
+
+DT -> DT_the
+[string] the
+[ud] "(the<root> / the)"
+
+JJ -> JJ_sunni
+[string] sunni
+[ud] "(sunni<root> / sunni)"
+
+NN -> NN_helicopter
+[string] helicopter
+[ud] "(helicopter<root> / helicopter)"
+
+RB -> RB_yet
+[string] yet
+[ud] "(yet<root> / yet)"
+
+DT -> DT_another
+[string] another
+[ud] "(another<root> / another)"
+
+NNP -> NNP_US
+[string] US
+[ud] "(US<root> / US)"
+
+IN -> IN_in
+[string] in
+[ud] "(in<root> / in)"
+
+CC -> CC_but
+[string] but
+[ud] "(but<root> / but)"
+
+NN -> NN_heartland
+[string] heartland
+[ud] "(heartland<root> / heartland)"
+
+COMMA -> COMMA_COMMA
+[string] COMMA
+[ud] "(COMMA<root> / COMMA)"
+
+NN -> NN_crew
+[string] crew
+[ud] "(crew<root> / crew)"
+
+VBD -> VBD_lose
+[string] lose
+[ud] "(lose<root> / lose)"
+
+DT -> DT_the
+[string] the
+[ud] "(the<root> / the)"
+
+IN -> IN_to
+[string] to
+[ud] "(to<root> / to)"
+
+DT -> DT_this
+[string] this
+[ud] "(this<root> / this)"
+
+PERIOD -> PERIOD_PERIOD
+[string] PERIOD
+[ud] "(PERIOD<root> / PERIOD)"
+
+NN -> NN_fire
+[string] fire
+[ud] "(fire<root> / fire)"
+
+NN -> NN_troops
+[string] troops
+[ud] "(troops<root> / troops)"
+
+IN -> IN_of
+[string] of
+[ud] "(of<root> / of)"
+
+IN -> IN_in
+[string] in
+[ud] "(in<root> / in)"
+
+RB -> RB_out
+[string] out
+[ud] "(out<root> / out)"
+
+PERIOD -> PERIOD_PERIOD
+[string] PERIOD
+[ud] "(PERIOD<root> / PERIOD)"
+
+IN -> IN_against
+[string] against
+[ud] "(against<root> / against)"
+
+PRP -> PRP_they
+[string] they
+[ud] "(they<root> / they)"
+
+WRB -> WRB_when
+[string] when
+[ud] "(when<root> / when)"
+
+NNS -> NNS_demonstrator
+[string] demonstrator
+[ud] "(demonstrator<root> / demonstrator)"
+
+COMMA -> COMMA_COMMA
+[string] COMMA
+[ud] "(COMMA<root> / COMMA)"
+
+JJ -> JJ_newlywed
+[string] newlywed
+[ud] "(newlywed<root> / newlywed)"
+
+DT -> DT_a
+[string] a
+[ud] "(a<root> / a)"
+
+VBD -> VBD_come
+[string] come
+[ud] "(come<root> / come)"
+
+NN -> NN_bride
+[string] bride
+[ud] "(bride<root> / bride)"
+
+NNP -> NNP_Fallujah
+[string] Fallujah
+[ud] "(Fallujah<root> / Fallujah)"
+
+NNS -> NNS_hundred
+[string] hundred
+[ud] "(hundred<root> / hundred)"
+
+RB -> RB_briefly
+[string] briefly
+[ud] "(briefly<root> / briefly)"
+
+JJ -> JJ_yound
+[string] yound
+[ud] "(yound<root> / yound)"
+
+NNP -> NNP_US
+[string] US
+[ud] "(US<root> / US)"
+
+VBD -> VBD_arrest
+[string] arrest
+[ud] "(arrest<root> / arrest)"
+
+HYPHENRRBHYPHEN -> HYPHENRRBHYPHEN_RRB
+[string] RRB
+[ud] "(RRB<root> / RRB)"
+
+HYPHENLRBHYPHEN -> HYPHENLRBHYPHEN_LRB
+[string] LRB
+[ud] "(LRB<root> / LRB)"
+
+IN -> IN_from
+[string] from
+[ud] "(from<root> / from)"
+
+NN -> NN_information
+[string] information
+[ud] "(information<root> / information)"
+
+JJ -> JJ_bad
+[string] bad
+[ud] "(bad<root> / bad)"
+
+NN -> NN_tradeoff
+[string] tradeoff
+[ud] "(tradeoff<root> / tradeoff)"
+
+IN -> IN_of
+[string] of
+[ud] "(of<root> / of)"
+
+VBD -> VBD_get
+[string] get
+[ud] "(get<root> / get)"
+
+COMMA -> COMMA_COMMA
+[string] COMMA
+[ud] "(COMMA<root> / COMMA)"
+
+NNP -> NNP_US
+[string] US
+[ud] "(US<root> / US)"
+
+NN -> NN_army
+[string] army
+[ud] "(army<root> / army)"
+
+PERIOD -> PERIOD_PERIOD
+[string] PERIOD
+[ud] "(PERIOD<root> / PERIOD)"
+
+RB -> RB_otherwise
+[string] otherwise
+[ud] "(otherwise<root> / otherwise)"
+
+JJ -> JJ_bad
+[string] bad
+[ud] "(bad<root> / bad)"
+
+JJ -> JJ_enormous
+[string] enormous
+[ud] "(enormous<root> / enormous)"
+
+NNS -> NNS_relative
+[string] relative
+[ud] "(relative<root> / relative)"
+
+PRP -> PRP_I
+[string] I
+[ud] "(I<root> / I)"
+
+NN -> NN_amount
+[string] amount
+[ud] "(amount<root> / amount)"
+
+IN -> IN_that
+[string] that
+[ud] "(that<root> / that)"
+
+PRPDOLLAR -> PRPDOLLAR_she
+[string] she
+[ud] "(she<root> / she)"
+
+DT -> DT_a
+[string] a
+[ud] "(a<root> / a)"
+
+IN -> IN_because
+[string] because
+[ud] "(because<root> / because)"
+
+DT -> DT_the
+[string] the
+[ud] "(the<root> / the)"
+
+DT -> DT_a
+[string] a
+[ud] "(a<root> / a)"
+
+DT -> DT_this
+[string] this
+[ud] "(this<root> / this)"
+
+VBP -> VBP_hope
+[string] hope
+[ud] "(hope<root> / hope)"
+
+COMMA -> COMMA_COMMA
+[string] COMMA
+[ud] "(COMMA<root> / COMMA)"
+
+VBD -> VBD_be
+[string] be
+[ud] "(be<root> / be)"
+
+NN -> NN_move
+[string] move
+[ud] "(move<root> / move)"
+
+NNS -> NNS_troops
+[string] troops
+[ud] "(troops<root> / troops)"
+
+PERIOD -> PERIOD_PERIOD
+[string] PERIOD
+[ud] "(PERIOD<root> / PERIOD)"
+
+IN -> IN_into
+[string] into
+[ud] "(into<root> / into)"
+
+JJ -> JJ_hostile
+[string] hostile
+[ud] "(hostile<root> / hostile)"
+
+DT -> DT_the
+[string] the
+[ud] "(the<root> / the)"
+
+COMMA -> COMMA_COMMA
+[string] COMMA
+[ud] "(COMMA<root> / COMMA)"
+
+DT -> DT_the
+[string] the
+[ud] "(the<root> / the)"
+
+VBD -> VBD_fire
+[string] fire
+[ud] "(fire<root> / fire)"
+
+CD -> CD_DIGIT
+[string] DIGIT
+[ud] "(DIGIT<root> / DIGIT)"
+
+VBG -> VBG_kill
+[string] kill
+[ud] "(kill<root> / kill)"
+
+NN -> NN_crowd
+[string] crowd
+[ud] "(crowd<root> / crowd)"
+
+NNP -> NNP_US
+[string] US
+[ud] "(US<root> / US)"
+
+NNP -> NNP_US
+[string] US
+[ud] "(US<root> / US)"
+
+JJ -> JJ_local
+[string] local
+[ud] "(local<root> / local)"
+
+VBZ -> VBZ_seem
+[string] seem
+[ud] "(seem<root> / seem)"
+
+VBN -> VBN_do
+[string] do
+[ud] "(do<root> / do)"
+
+VBZ -> VBZ_be
+[string] be
+[ud] "(be<root> / be)"
+
+PERIOD -> PERIOD_PERIOD
+[string] PERIOD
+[ud] "(PERIOD<root> / PERIOD)"
+
+IN -> IN_in
+[string] in
+[ud] "(in<root> / in)"
+
+RB -> RB_at
+[string] at
+[ud] "(at<root> / at)"
+
+DT -> DT_the
+[string] the
+[ud] "(the<root> / the)"
+
+NN -> NN_manhunt
+[string] manhunt
+[ud] "(manhunt<root> / manhunt)"
+
+VBP -> VBP_be
+[string] be
+[ud] "(be<root> / be)"
+
+IN -> IN_for
+[string] for
+[ud] "(for<root> / for)"
+
+IN -> IN_to
+[string] to
+[ud] "(to<root> / to)"
+
+NNP -> NNP_Baath
+[string] Baath
+[ud] "(Baath<root> / Baath)"
+
+RBS -> RBS_least
+[string] least
+[ud] "(least<root> / least)"
+
+JJ -> JJ_sunni
+[string] sunni
+[ud] "(sunni<root> / sunni)"
+
+PRP -> PRP_it
+[string] it
+[ud] "(it<root> / it)"
+
+IN -> IN_that
+[string] that
+[ud] "(that<root> / that)"
+
+PRP -> PRP_I
+[string] I
+[ud] "(I<root> / I)"
+
+NN -> NN_heartland
+[string] heartland
+[ud] "(heartland<root> / heartland)"
+
+NN -> NN_standing
+[string] standing
+[ud] "(standing<root> / standing)"
+
+CC -> CC_or
+[string] or
+[ud] "(or<root> / or)"
+
+RB -> RB_wrong
+[string] wrong
+[ud] "(wrong<root> / wrong)"
+
+NNS -> NNS_way
+[string] way
+[ud] "(way<root> / way)"
+
+COMMA -> COMMA_COMMA
+[string] COMMA
+[ud] "(COMMA<root> / COMMA)"
+
+NNPS -> NNPS_Iraqis
+[string] Iraqis
+[ud] "(Iraqis<root> / Iraqis)"
+
+JJ -> JJ_high
+[string] high
+[ud] "(high<root> / high)"
+
+IN -> IN_in
+[string] in
+[ud] "(in<root> / in)"
+
+IN -> IN_with
+[string] with
+[ud] "(with<root> / with)"
+
+DT -> DT_the
+[string] the
+[ud] "(the<root> / the)"
+
+WDT -> WDT_that
+[string] that
+[ud] "(that<root> / that)"
+
+VBG -> VBG_be
+[string] be
+[ud] "(be<root> / be)"
+
+IN -> IN_for
+[string] for
+[ud] "(for<root> / for)"
+
+NNS -> NNS_official
+[string] official
+[ud] "(official<root> / official)"
+
+JJ -> JJ_bad
+[string] bad
+[ud] "(bad<root> / bad)"
+
+JJ -> JJ_clear
+[string] clear
+[ud] "(clear<root> / clear)"
+
+RB -> RB_finally
+[string] finally
+[ud] "(finally<root> / finally)"
+
+HYPHENRRBHYPHEN -> HYPHENRRBHYPHEN_RRB
+[string] RRB
+[ud] "(RRB<root> / RRB)"
+
+COLON -> COLON_HYPHENHYPHEN
+[string] HYPHENHYPHEN
+[ud] "(HYPHENHYPHEN<root> / HYPHENHYPHEN)"
+
+IN -> IN_to
+[string] to
+[ud] "(to<root> / to)"
+
+WP -> WP_who
+[string] who
+[ud] "(who<root> / who)"
+
+DT -> DT_a
+[string] a
+[ud] "(a<root> / a)"
+
+JJ -> JJ_miniscule
+[string] miniscule
+[ud] "(miniscule<root> / miniscule)"
+
+NN -> NN_story
+[string] story
+[ud] "(story<root> / story)"
+
+IN -> IN_of
+[string] of
+[ud] "(of<root> / of)"
+
+PRP -> PRP_it
+[string] it
+[ud] "(it<root> / it)"
+
+PERIOD -> PERIOD_PERIOD
+[string] PERIOD
+[ud] "(PERIOD<root> / PERIOD)"
+
+NN -> NN_day
+[string] day
+[ud] "(day<root> / day)"
+
+TO -> TO_to
+[string] to
+[ud] "(to<root> / to)"
+
+VB -> VB_present
+[string] present
+[ud] "(present<root> / present)"
+
+DT -> DT_a
+[string] a
+[ud] "(a<root> / a)"
+
+VBZ -> VBZ_have
+[string] have
+[ud] "(have<root> / have)"
+
+NNP -> NNP_Google
+[string] Google
+[ud] "(Google<root> / Google)"
+
+DT -> DT_the
+[string] the
+[ud] "(the<root> / the)"
+
+VBP -> VBP_have
+[string] have
+[ud] "(have<root> / have)"
+
+NN -> NN_number
+[string] number
+[ud] "(number<root> / number)"
+
+HYPHENLRBHYPHEN -> HYPHENLRBHYPHEN_LRB
+[string] LRB
+[ud] "(LRB<root> / LRB)"
+
+NNS -> NNS_people
+[string] people
+[ud] "(people<root> / people)"
+
+DT -> DT_the
+[string] the
+[ud] "(the<root> / the)"
+
+VBN -> VBN_hear
+[string] hear
+[ud] "(hear<root> / hear)"
+
+NN -> NN_chance
+[string] chance
+[ud] "(chance<root> / chance)"
+
+POS -> POS_SQs
+[string] SQs
+[ud] "(SQs<root> / SQs)"
+
+NN -> NN_company
+[string] company
+[ud] "(company<root> / company)"
+
+NN -> NN_analyst
+[string] analyst
+[ud] "(analyst<root> / analyst)"
+
+VBN -> VBN_have
+[string] have
+[ud] "(have<root> / have)"
+
+RB -> RB_not
+[string] not
+[ud] "(not<root> / not)"
+
+IN -> IN_about
+[string] about
+[ud] "(about<root> / about)"
+
+PERIOD -> PERIOD_PERIOD
+[string] PERIOD
+[ud] "(PERIOD<root> / PERIOD)"
+
+DT -> DT_the
+[string] the
+[ud] "(the<root> / the)"
+
+NN -> NN_chance
+[string] chance
+[ud] "(chance<root> / chance)"
+
+VB -> VB_suck
+[string] suck
+[ud] "(suck<root> / suck)"
+
+TO -> TO_to
+[string] to
+[ud] "(to<root> / to)"
+
+DT -> DT_these
+[string] these
+[ud] "(these<root> / these)"
+
+NN -> NN_company
+[string] company
+[ud] "(company<root> / company)"
+
+DT -> DT_the
+[string] the
+[ud] "(the<root> / the)"
+
+COMMA -> COMMA_COMMA
+[string] COMMA
+[ud] "(COMMA<root> / COMMA)"
+
+RB -> RB_just
+[string] just
+[ud] "(just<root> / just)"
+
+RB -> RB_actually
+[string] actually
+[ud] "(actually<root> / actually)"
+
+RB -> RB_usually
+[string] usually
+[ud] "(usually<root> / usually)"
+
+NN -> NN_time
+[string] time
+[ud] "(time<root> / time)"
+
+NNS -> NNS_suckup
+[string] suckup
+[ud] "(suckup<root> / suckup)"
+
+DT -> DT_a
+[string] a
+[ud] "(a<root> / a)"
+
+CC -> CC_but
+[string] but
+[ud] "(but<root> / but)"
+
+NNS -> NNS_plan
+[string] plan
+[ud] "(plan<root> / plan)"
+
+JJ -> JJ_concerned
+[string] concerned
+[ud] "(concerned<root> / concerned)"
+
+POS -> POS_SQs
+[string] SQs
+[ud] "(SQs<root> / SQs)"
+
+IN -> IN_for
+[string] for
+[ud] "(for<root> / for)"
+
+NNS -> NNS_people
+[string] people
+[ud] "(people<root> / people)"
+
+DT -> DT_this
+[string] this
+[ud] "(this<root> / this)"
+
+COMMA -> COMMA_COMMA
+[string] COMMA
+[ud] "(COMMA<root> / COMMA)"
+
+VBP -> VBP_be
+[string] be
+[ud] "(be<root> / be)"
+
+VBP -> VBP_be
+[string] be
+[ud] "(be<root> / be)"
+
+RP -> RP_up
+[string] up
+[ud] "(up<root> / up)"
+
+WRB -> WRB_when
+[string] when
+[ud] "(when<root> / when)"
+
+MD -> MD_will
+[string] will
+[ud] "(will<root> / will)"
+
+NNS -> NNS_goal
+[string] goal
+[ud] "(goal<root> / goal)"
+
+WPDOLLAR -> WPDOLLAR_whoSQs
+[string] whoSQs
+[ud] "(whoSQs<root> / whoSQs)"
+
+RB -> RB_not
+[string] not
+[ud] "(not<root> / not)"
+
+COMMA -> COMMA_COMMA
+[string] COMMA
+[ud] "(COMMA<root> / COMMA)"
+
+VB -> VB_do
+[string] do
+[ud] "(do<root> / do)"
+
+IQIQ -> IQIQ_DQ
+[string] DQ
+[ud] "(DQ<root> / DQ)"
+
+VBP -> VBP_include
+[string] include
+[ud] "(include<root> / include)"
+
+JJ -> JJ_evil
+[string] evil
+[ud] "(evil<root> / evil)"
+
+RB -> RB_all
+[string] all
+[ud] "(all<root> / all)"
+
+DT -> DT_a
+[string] a
+[ud] "(a<root> / a)"
+
+NN -> NN_history
+[string] history
+[ud] "(history<root> / history)"
+
+VBN -> VBN_state
+[string] state
+[ud] "(state<root> / state)"
+
+NN -> NN_company
+[string] company
+[ud] "(company<root> / company)"
+
+PRP -> PRP_they
+[string] they
+[ud] "(they<root> / they)"
+
+RB -> RB_so
+[string] so
+[ud] "(so<root> / so)"
+
+VBP -> VBP_work
+[string] work
+[ud] "(work<root> / work)"
+
+VBP -> VBP_imagine
+[string] imagine
+[ud] "(imagine<root> / imagine)"
+
+PRP -> PRP_they
+[string] they
+[ud] "(they<root> / they)"
+
+JJ -> JJ_profitable
+[string] profitable
+[ud] "(profitable<root> / profitable)"
+
+SQSQ -> SQSQ_DQ
+[string] DQ
+[ud] "(DQ<root> / DQ)"
+
+IQIQ -> IQIQ_DQ
+[string] DQ
+[ud] "(DQ<root> / DQ)"
+
+VB -> VB_be
+[string] be
+[ud] "(be<root> / be)"
+
+VB -> VB_do
+[string] do
+[ud] "(do<root> / do)"
+
+COMMA -> COMMA_COMMA
+[string] COMMA
+[ud] "(COMMA<root> / COMMA)"
+
+NNP -> NNP_Wall
+[string] Wall
+[ud] "(Wall<root> / Wall)"
+
+VB -> VB_be
+[string] be
+[ud] "(be<root> / be)"
+
+IN -> IN_on
+[string] on
+[ud] "(on<root> / on)"
+
+NNP -> NNP_Street
+[string] Street
+[ud] "(Street<root> / Street)"
+
+PRP -> PRP_they
+[string] they
+[ud] "(they<root> / they)"
+
+VBP -> VBP_hear
+[string] hear
+[ud] "(hear<root> / hear)"
+
+JJ -> JJ_eventually
+[string] eventually
+[ud] "(eventually<root> / eventually)"
+
+SQSQ -> SQSQ_DQ
+[string] DQ
+[ud] "(DQ<root> / DQ)"
+
+PERIOD -> PERIOD_PERIOD
+[string] PERIOD
+[ud] "(PERIOD<root> / PERIOD)"
+
+COMMA -> COMMA_COMMA
+[string] COMMA
+[ud] "(COMMA<root> / COMMA)"
+
+DT -> DT_a
+[string] a
+[ud] "(a<root> / a)"
+
+RB -> RB_not
+[string] not
+[ud] "(not<root> / not)"
+
+WPDOLLAR -> WPDOLLAR_whoSQs
+[string] whoSQs
+[ud] "(whoSQs<root> / whoSQs)"
+
+IN -> IN_after
+[string] after
+[ud] "(after<root> / after)"
+
+VB -> VB_be
+[string] be
+[ud] "(be<root> / be)"
+
+NN -> NN_company
+[string] company
+[ud] "(company<root> / company)"
+
+NNP -> NNP_Brin
+[string] Brin
+[ud] "(Brin<root> / Brin)"
+
+PRP -> PRP_it
+[string] it
+[ud] "(it<root> / it)"
+
+WDT -> WDT_which
+[string] which
+[ud] "(which<root> / which)"
+
+NN -> NN_proof
+[string] proof
+[ud] "(proof<root> / proof)"
+
+RB -> RB_quite
+[string] quite
+[ud] "(quite<root> / quite)"
+
+DT -> DT_a
+[string] a
+[ud] "(a<root> / a)"
+
+DT -> DT_the
+[string] the
+[ud] "(the<root> / the)"
+
+COMMA -> COMMA_COMMA
+[string] COMMA
+[ud] "(COMMA<root> / COMMA)"
+
+NN -> NN_company
+[string] company
+[ud] "(company<root> / company)"
+
+IN -> IN_that
+[string] that
+[ud] "(that<root> / that)"
+
+NNS -> NNS_project
+[string] project
+[ud] "(project<root> / project)"
+
+VBZ -> VBZ_have
+[string] have
+[ud] "(have<root> / have)"
+
+VBZ -> VBZ_be
+[string] be
+[ud] "(be<root> / be)"
+
+NN -> NN_research
+[string] research
+[ud] "(research<root> / research)"
+
+MD -> MD_would
+[string] would
+[ud] "(would<root> / would)"
+
+JJ -> JJ_good
+[string] good
+[ud] "(good<root> / good)"
+
+POS -> POS_SQs
+[string] SQs
+[ud] "(SQs<root> / SQs)"
+
+IQIQ -> IQIQ_SQ
+[string] SQ
+[ud] "(SQ<root> / SQ)"
+
+JJ -> JJ_mathematical
+[string] mathematical
+[ud] "(mathematical<root> / mathematical)"
+
+IN -> IN_on
+[string] on
+[ud] "(on<root> / on)"
+
+COMMA -> COMMA_COMMA
+[string] COMMA
+[ud] "(COMMA<root> / COMMA)"
+
+NN -> NN_self
+[string] self
+[ud] "(self<root> / self)"
+
+PERIOD -> PERIOD_PERIOD
+[string] PERIOD
+[ud] "(PERIOD<root> / PERIOD)"
+
+NN -> NN_environment
+[string] environment
+[ud] "(environment<root> / environment)"
+
+TO -> TO_to
+[string] to
+[ud] "(to<root> / to)"
+
+DT -> DT_a
+[string] a
+[ud] "(a<root> / a)"
+
+RB -> RB_actually
+[string] actually
+[ud] "(actually<root> / actually)"
+
+JJ -> JJ_respectable
+[string] respectable
+[ud] "(respectable<root> / respectable)"
+
+COLON -> COLON_COLON
+[string] COLON
+[ud] "(COLON<root> / COLON)"
+
+HYPH -> HYPH_HYPHEN
+[string] HYPHEN
+[ud] "(HYPHEN<root> / HYPHEN)"
+
+JJ -> JJ_own
+[string] own
+[ud] "(own<root> / own)"
+
+NN -> NN_research
+[string] research
+[ud] "(research<root> / research)"
+
+CD -> CD_one
+[string] one
+[ud] "(one<root> / one)"
+
+NN -> NN_strategy
+[string] strategy
+[ud] "(strategy<root> / strategy)"
+
+PRPDOLLAR -> PRPDOLLAR_they
+[string] they
+[ud] "(they<root> / they)"
+
+JJ -> JJ_freewheeling
+[string] freewheeling
+[ud] "(freewheeling<root> / freewheeling)"
+
+NN -> NN_idea
+[string] idea
+[ud] "(idea<root> / idea)"
+
+DT -> DT_a
+[string] a
+[ud] "(a<root> / a)"
+
+DT -> DT_a
+[string] a
+[ud] "(a<root> / a)"
+
+IN -> IN_as
+[string] as
+[ud] "(as<root> / as)"
+
+VB -> VB_imagine
+[string] imagine
+[ud] "(imagine<root> / imagine)"
+
+COMMA -> COMMA_COMMA
+[string] COMMA
+[ud] "(COMMA<root> / COMMA)"
+
+NNS -> NNS_employee
+[string] employee
+[ud] "(employee<root> / employee)"
+
+NNP -> NNP_Sergey
+[string] Sergey
+[ud] "(Sergey<root> / Sergey)"
+
+NN -> NN_week
+[string] week
+[ud] "(week<root> / week)"
+
+VBZ -> VBZ_be
+[string] be
+[ud] "(be<root> / be)"
+
+VBN -> VBN_create
+[string] create
+[ud] "(create<root> / create)"
+
+VB -> VB_do
+[string] do
+[ud] "(do<root> / do)"
+
+RB -> RB_as
+[string] as
+[ud] "(as<root> / as)"
+
+RB -> RB_not
+[string] not
+[ud] "(not<root> / not)"
+
+SQSQ -> SQSQ_SQ
+[string] SQ
+[ud] "(SQ<root> / SQ)"
+
+NN -> NN_day
+[string] day
+[ud] "(day<root> / day)"
+
+VBZ -> VBZ_give
+[string] give
+[ud] "(give<root> / give)"
+
+PRP -> PRP_you
+[string] you
+[ud] "(you<root> / you)"
+
+VBN -> VBN_drive
+[string] drive
+[ud] "(drive<root> / drive)"
+
+EX -> EX_there
+[string] there
+[ud] "(there<root> / there)"
+
+COMMA -> COMMA_SEMICOLON
+[string] SEMICOLON
+[ud] "(SEMICOLON<root> / SEMICOLON)"
+
+JJ -> JJ_entire
+[string] entire
+[ud] "(entire<root> / entire)"
+
+NN -> NN_punchline
+[string] punchline
+[ud] "(punchline<root> / punchline)"
+
+PERIOD -> PERIOD_PERIOD
+[string] PERIOD
+[ud] "(PERIOD<root> / PERIOD)"
+
+DT -> DT_the
+[string] the
+[ud] "(the<root> / the)"
+
+COMMA -> COMMA_COMMA
+[string] COMMA
+[ud] "(COMMA<root> / COMMA)"
+
+RB -> RB_too
+[string] too
+[ud] "(too<root> / too)"
+
+DT -> DT_a
+[string] a
+[ud] "(a<root> / a)"
+
+VBZ -> VBZ_be
+[string] be
+[ud] "(be<root> / be)"
+
+VB -> VB_read
+[string] read
+[ud] "(read<root> / read)"
+
+NN -> NN_article
+[string] article
+[ud] "(article<root> / article)"
+
+NN -> NN_piece
+[string] piece
+[ud] "(piece<root> / piece)"
+
+VBZ -> VBZ_have
+[string] have
+[ud] "(have<root> / have)"
+
+PRPDOLLAR -> PRPDOLLAR_my
+[string] my
+[ud] "(my<root> / my)"
+
+IN -> IN_on
+[string] on
+[ud] "(on<root> / on)"
+
+IN -> IN_at
+[string] at
+[ud] "(at<root> / at)"
+
+IN -> IN_of
+[string] of
+[ud] "(of<root> / of)"
+
+NNS -> NNS_implication
+[string] implication
+[ud] "(implication<root> / implication)"
+
+PERIOD -> PERIOD_PERIOD
+[string] PERIOD
+[ud] "(PERIOD<root> / PERIOD)"
+
+NN -> NN_opinion
+[string] opinion
+[ud] "(opinion<root> / opinion)"
+
+HYPH -> HYPH_HYPHEN
+[string] HYPHEN
+[ud] "(HYPHEN<root> / HYPHEN)"
+
+NNP -> NNP_Arafat
+[string] Arafat
+[ud] "(Arafat<root> / Arafat)"
+
+IN -> IN_for
+[string] for
+[ud] "(for<root> / for)"
+
+DT -> DT_the
+[string] the
+[ud] "(the<root> / the)"
+
+NNP -> NNP_Newsday
+[string] Newsday
+[ud] "(Newsday<root> / Newsday)"
+
+NNP -> NNP_al
+[string] al
+[ud] "(al<root> / al)"
+
+NNP -> NNP_Qaeda
+[string] Qaeda
+[ud] "(Qaeda<root> / Qaeda)"
+
+NN -> NN_passing
+[string] passing
+[ud] "(passing<root> / passing)"
+
+VBN -> VBN_appear
+[string] appear
+[ud] "(appear<root> / appear)"
+
+POS -> POS_SQs
+[string] SQs
+[ud] "(SQs<root> / SQs)"
+
+NN -> NN_excerpt
+[string] excerpt
+[ud] "(excerpt<root> / excerpt)"
+
+COLON -> COLON_COLON
+[string] COLON
+[ud] "(COLON<root> / COLON)"
+
+TO -> TO_to
+[string] to
+[ud] "(to<root> / to)"
+
+IN -> IN_with
+[string] with
+[ud] "(with<root> / with)"
+
+NN -> NN_state
+[string] state
+[ud] "(state<root> / state)"
+
+CD -> CD_two
+[string] two
+[ud] "(two<root> / two)"
+
+VB -> VB_compromise
+[string] compromise
+[ud] "(compromise<root> / compromise)"
+
+DT -> DT_a
+[string] a
+[ud] "(a<root> / a)"
+
+DT -> DT_the
+[string] the
+[ud] "(the<root> / the)"
+
+IQIQ -> IQIQ_DQ
+[string] DQ
+[ud] "(DQ<root> / DQ)"
+
+CC -> CC_and
+[string] and
+[ud] "(and<root> / and)"
+
+POS -> POS_SQs
+[string] SQs
+[ud] "(SQs<root> / SQs)"
+
+JJ -> JJ_rocky
+[string] rocky
+[ud] "(rocky<root> / rocky)"
+
+NN -> NN_solution
+[string] solution
+[ud] "(solution<root> / solution)"
+
+RB -> RB_even
+[string] even
+[ud] "(even<root> / even)"
+
+NN -> NN_nationalism
+[string] nationalism
+[ud] "(nationalism<root> / nationalism)"
+
+NNP -> NNP_Israel
+[string] Israel
+[ud] "(Israel<root> / Israel)"
+
+NNP -> NNP_Arafat
+[string] Arafat
+[ud] "(Arafat<root> / Arafat)"
+
+VB -> VB_imagine
+[string] imagine
+[ud] "(imagine<root> / imagine)"
+
+IN -> IN_if
+[string] if
+[ud] "(if<root> / if)"
+
+HYPH -> HYPH_HYPHEN
+[string] HYPHEN
+[ud] "(HYPHEN<root> / HYPHEN)"
+
+TO -> TO_to
+[string] to
+[ud] "(to<root> / to)"
+
+JJ -> JJ_secular
+[string] secular
+[ud] "(secular<root> / secular)"
+
+IN -> IN_of
+[string] of
+[ud] "(of<root> / of)"
+
+VBD -> VBD_remain
+[string] remain
+[ud] "(remain<root> / remain)"
+
+RB -> RB_enough
+[string] enough
+[ud] "(enough<root> / enough)"
+
+COMMA -> COMMA_COMMA
+[string] COMMA
+[ud] "(COMMA<root> / COMMA)"
+
+NNS -> NNS_negotiation
+[string] negotiation
+[ud] "(negotiation<root> / negotiation)"
+
+NN -> NN_road
+[string] road
+[ud] "(road<root> / road)"
+
+VBD -> VBD_be
+[string] be
+[ud] "(be<root> / be)"
+
+JJ -> JJ_supple
+[string] supple
+[ud] "(supple<root> / supple)"
+
+PERIOD -> PERIOD_PERIOD
+[string] PERIOD
+[ud] "(PERIOD<root> / PERIOD)"
+
+NN -> NN_peace
+[string] peace
+[ud] "(peace<root> / peace)"
+
+NNP -> NNP_Palestinian
+[string] Palestinian
+[ud] "(Palestinian<root> / Palestinian)"
+
+JJ -> JJ_israeli
+[string] israeli
+[ud] "(israeli<root> / israeli)"
+
+JJ -> JJ_such
+[string] such
+[ud] "(such<root> / such)"
+
+VBD -> VBD_help
+[string] help
+[ud] "(help<root> / help)"
+
+WDT -> WDT_which
+[string] which
+[ud] "(which<root> / which)"
+
+COMMA -> COMMA_COMMA
+[string] COMMA
+[ud] "(COMMA<root> / COMMA)"
+
+NNPS -> NNPS_territories
+[string] territories
+[ud] "(territories<root> / territories)"
+
+DT -> DT_the
+[string] the
+[ud] "(the<root> / the)"
+
+COMMA -> COMMA_COMMA
+[string] COMMA
+[ud] "(COMMA<root> / COMMA)"
+
+VB -> VB_derail
+[string] derail
+[ud] "(derail<root> / derail)"
+
+JJ -> JJ_radical
+[string] radical
+[ud] "(radical<root> / radical)"
+
+DT -> DT_the
+[string] the
+[ud] "(the<root> / the)"
+
+NNP -> NNP_Sharon
+[string] Sharon
+[ud] "(Sharon<root> / Sharon)"
+
+IN -> IN_by
+[string] by
+[ud] "(by<root> / by)"
+
+VBN -> VBN_occupy
+[string] occupy
+[ud] "(occupy<root> / occupy)"
+
+DT -> DT_the
+[string] the
+[ud] "(the<root> / the)"
+
+NN -> NN_colonization
+[string] colonization
+[ud] "(colonization<root> / colonization)"
+
+DT -> DT_the
+[string] the
+[ud] "(the<root> / the)"
+
+COMMA -> COMMA_COMMA
+[string] COMMA
+[ud] "(COMMA<root> / COMMA)"
+
+NN -> NN_process
+[string] process
+[ud] "(process<root> / process)"
+
+NNP -> NNP_Hamas
+[string] Hamas
+[ud] "(Hamas<root> / Hamas)"
+
+TO -> TO_to
+[string] to
+[ud] "(to<root> / to)"
+
+IN -> IN_along
+[string] along
+[ud] "(along<root> / along)"
+
+PERIOD -> PERIOD_PERIOD
+[string] PERIOD
+[ud] "(PERIOD<root> / PERIOD)"
+
+NNS -> NNS_attack
+[string] attack
+[ud] "(attack<root> / attack)"
+
+IN -> IN_during
+[string] during
+[ud] "(during<root> / during)"
+
+RB -> RB_always
+[string] always
+[ud] "(always<root> / always)"
+
+NNS -> NNS_group
+[string] group
+[ud] "(group<root> / group)"
+
+VBD -> VBD_have
+[string] have
+[ud] "(have<root> / have)"
+
+IN -> IN_of
+[string] of
+[ud] "(of<root> / of)"
+
+NNS -> NNS_DIGITDIGITDIGITDIGIT
+[string] DIGITDIGITDIGITDIGIT
+[ud] "(DIGITDIGITDIGITDIGIT<root> / DIGITDIGITDIGITDIGIT)"
+
+IN -> IN_as
+[string] as
+[ud] "(as<root> / as)"
+
+JJ -> JJ_terrorist
+[string] terrorist
+[ud] "(terrorist<root> / terrorist)"
+
+VBN -> VBN_continue
+[string] continue
+[ud] "(continue<root> / continue)"
+
+IN -> IN_with
+[string] with
+[ud] "(with<root> / with)"
+
+VBN -> VBN_oppose
+[string] oppose
+[ud] "(oppose<root> / oppose)"
+
+NN -> NN_leadership
+[string] leadership
+[ud] "(leadership<root> / leadership)"
+
+RB -> RB_soon
+[string] soon
+[ud] "(soon<root> / soon)"
+
+NN -> NN_vacuum
+[string] vacuum
+[ud] "(vacuum<root> / vacuum)"
+
+NN -> NN_death
+[string] death
+[ud] "(death<root> / death)"
+
+DT -> DT_a
+[string] a
+[ud] "(a<root> / a)"
+
+PERIOD -> PERIOD_PERIOD
+[string] PERIOD
+[ud] "(PERIOD<root> / PERIOD)"
+
+POS -> POS_SQs
+[string] SQs
+[ud] "(SQs<root> / SQs)"
+
+NNP -> NNP_Arafat
+[string] Arafat
+[ud] "(Arafat<root> / Arafat)"
+
+IN -> IN_in
+[string] in
+[ud] "(in<root> / in)"
+
+MD -> MD_will
+[string] will
+[ud] "(will<root> / will)"
+
+RB -> RB_not
+[string] not
+[ud] "(not<root> / not)"
+
+JJ -> JJ_palestinian
+[string] palestinian
+[ud] "(palestinian<root> / palestinian)"
+
+WDT -> WDT_that
+[string] that
+[ud] "(that<root> / that)"
+
+VBN -> VBN_fill
+[string] fill
+[ud] "(fill<root> / fill)"
+
+VBZ -> VBZ_create
+[string] create
+[ud] "(create<root> / create)"
+
+VB -> VB_be
+[string] be
+[ud] "(be<root> / be)"
+
+JJ -> JJ_major
+[string] major
+[ud] "(major<root> / major)"
+
+IN -> IN_in
+[string] in
+[ud] "(in<root> / in)"
+
+VBZ -> VBZ_have
+[string] have
+[ud] "(have<root> / have)"
+
+POS -> POS_SQs
+[string] SQs
+[ud] "(SQs<root> / SQs)"
+
+NNS -> NNS_structure
+[string] structure
+[ud] "(structure<root> / structure)"
+
+NN -> NN_party
+[string] party
+[ud] "(party<root> / party)"
+
+NN -> NN_assassination
+[string] assassination
+[ud] "(assassination<root> / assassination)"
+
+NNP -> NNP_Hamas
+[string] Hamas
+[ud] "(Hamas<root> / Hamas)"
+
+PERIOD -> PERIOD_PERIOD
+[string] PERIOD
+[ud] "(PERIOD<root> / PERIOD)"
+
+NNS -> NNS_leader
+[string] leader
+[ud] "(leader<root> / leader)"
+
+IN -> IN_of
+[string] of
+[ud] "(of<root> / of)"
+
+RB -> RB_also
+[string] also
+[ud] "(also<root> / also)"
+
+NNP -> NNP_Sharon
+[string] Sharon
+[ud] "(Sharon<root> / Sharon)"
+
+DT -> DT_that
+[string] that
+[ud] "(that<root> / that)"
+
+VBN -> VBN_weaken
+[string] weaken
+[ud] "(weaken<root> / weaken)"
+
+NN -> NN_authority
+[string] authority
+[ud] "(authority<root> / authority)"
+
+PRPDOLLAR -> PRPDOLLAR_they
+[string] they
+[ud] "(they<root> / they)"
+
+VB -> VB_grow
+[string] grow
+[ud] "(grow<root> / grow)"
+
+IN -> IN_for
+[string] for
+[ud] "(for<root> / for)"
+
+WDT -> WDT_that
+[string] that
+[ud] "(that<root> / that)"
+
+DT -> DT_the
+[string] the
+[ud] "(the<root> / the)"
+
+NN -> NN_leadership
+[string] leadership
+[ud] "(leadership<root> / leadership)"
+
+RP -> RP_up
+[string] up
+[ud] "(up<root> / up)"
+
+TO -> TO_to
+[string] to
+[ud] "(to<root> / to)"
+
+VB -> VB_find
+[string] find
+[ud] "(find<root> / find)"
+
+JJ -> JJ_radical
+[string] radical
+[ud] "(radical<root> / radical)"
+
+DT -> DT_the
+[string] the
+[ud] "(the<root> / the)"
+
+NN -> NN_way
+[string] way
+[ud] "(way<root> / way)"
+
+COMMA -> COMMA_COMMA
+[string] COMMA
+[ud] "(COMMA<root> / COMMA)"
+
+NNPS -> NNPS_Palestinians
+[string] Palestinians
+[ud] "(Palestinians<root> / Palestinians)"
+
+NNS -> NNS_cell
+[string] cell
+[ud] "(cell<root> / cell)"
+
+NN -> NN_peace
+[string] peace
+[ud] "(peace<root> / peace)"
+
+VB -> VB_reinvigorate
+[string] reinvigorate
+[ud] "(reinvigorate<root> / reinvigorate)"
+
+DT -> DT_the
+[string] the
+[ud] "(the<root> / the)"
+
+MD -> MD_may
+[string] may
+[ud] "(may<root> / may)"
+
+JJ -> JJ_young
+[string] young
+[ud] "(young<root> / young)"
+
+NNP -> NNP_bin
+[string] bin
+[ud] "(bin<root> / bin)"
+
+DT -> DT_a
+[string] a
+[ud] "(a<root> / a)"
+
+PERIOD -> PERIOD_PERIOD
+[string] PERIOD
+[ud] "(PERIOD<root> / PERIOD)"
+
+NNS -> NNS_cue
+[string] cue
+[ud] "(cue<root> / cue)"
+
+RB -> RB_not
+[string] not
+[ud] "(not<root> / not)"
+
+IN -> IN_if
+[string] if
+[ud] "(if<root> / if)"
+
+VBP -> VBP_look
+[string] look
+[ud] "(look<root> / look)"
+
+NNP -> NNP_Laden
+[string] Laden
+[ud] "(Laden<root> / Laden)"
+
+IN -> IN_of
+[string] of
+[ud] "(of<root> / of)"
+
+MD -> MD_can
+[string] can
+[ud] "(can<root> / can)"
+
+NN -> NN_process
+[string] process
+[ud] "(process<root> / process)"
+
+NNPS -> NNPS_Israelis
+[string] Israelis
+[ud] "(Israelis<root> / Israelis)"
+
+CC -> CC_and
+[string] and
+[ud] "(and<root> / and)"
+
+JJ -> JJ_palestinian
+[string] palestinian
+[ud] "(palestinian<root> / palestinian)"
+
+IN -> IN_to
+[string] to
+[ud] "(to<root> / to)"
+
+TO -> TO_to
+[string] to
+[ud] "(to<root> / to)"
+
+VBZ -> VBZ_remain
+[string] remain
+[ud] "(remain<root> / remain)"
+
+NNS -> NNS_man
+[string] man
+[ud] "(man<root> / man)"
+
+NNS -> NNS_leader
+[string] leader
+[ud] "(leader<root> / leader)"
+
+NN -> NN_recruiting
+[string] recruiting
+[ud] "(recruiting<root> / recruiting)"
+
+RB -> RB_out
+[string] out
+[ud] "(out<root> / out)"
+
+COMMA -> COMMA_COMMA
+[string] COMMA
+[ud] "(COMMA<root> / COMMA)"
+
+RB -> RB_even
+[string] even
+[ud] "(even<root> / even)"
+
+JJ -> JJ_strong
+[string] strong
+[ud] "(strong<root> / strong)"
+
+HYPH -> HYPH_HYPHEN
+[string] HYPHEN
+[ud] "(HYPHEN<root> / HYPHEN)"
+
+JJ -> JJ_muslim
+[string] muslim
+[ud] "(muslim<root> / muslim)"
+
+PERIOD -> PERIOD_PERIOD
+[string] PERIOD
+[ud] "(PERIOD<root> / PERIOD)"
+
+IN -> IN_among
+[string] among
+[ud] "(among<root> / among)"
+
+IN -> IN_for
+[string] for
+[ud] "(for<root> / for)"
+
+JJ -> JJ_local
+[string] local
+[ud] "(local<root> / local)"
+
+IN -> IN_with
+[string] with
+[ud] "(with<root> / with)"
+
+JJ -> JJ_enough
+[string] enough
+[ud] "(enough<root> / enough)"
+
+DT -> DT_the
+[string] the
+[ud] "(the<root> / the)"
+
+IN -> IN_if
+[string] if
+[ud] "(if<root> / if)"
+
+JJ -> JJ_young
+[string] young
+[ud] "(young<root> / young)"
+
+NNP -> NNP_Qaida
+[string] Qaida
+[ud] "(Qaida<root> / Qaida)"
+
+NNP -> NNP_al
+[string] al
+[ud] "(al<root> / al)"
+
+NN -> NN_struggle
+[string] struggle
+[ud] "(struggle<root> / struggle)"
+
+JJ -> JJ_israeli
+[string] israeli
+[ud] "(israeli<root> / israeli)"
+
+HYPH -> HYPH_HYPHEN
+[string] HYPHEN
+[ud] "(HYPHEN<root> / HYPHEN)"
+
+JJ -> JJ_palestinian
+[string] palestinian
+[ud] "(palestinian<root> / palestinian)"
+
+DT -> DT_the
+[string] the
+[ud] "(the<root> / the)"
+
+NNS -> NNS_poster
+[string] poster
+[ud] "(poster<root> / poster)"
+
+HYPH -> HYPH_HYPHEN
+[string] HYPHEN
+[ud] "(HYPHEN<root> / HYPHEN)"
+
+VB -> VB_keep
+[string] keep
+[ud] "(keep<root> / keep)"
+
+NNP -> NNP_Qaida
+[string] Qaida
+[ud] "(Qaida<root> / Qaida)"
+
+VBP -> VBP_remain
+[string] remain
+[ud] "(remain<root> / remain)"
+
+NNP -> NNP_al
+[string] al
+[ud] "(al<root> / al)"
+
+JJS -> JJS_best
+[string] best
+[ud] "(best<root> / best)"
+
+JJ -> JJ_palestinian
+[string] palestinian
+[ud] "(palestinian<root> / palestinian)"
+
+VBG -> VBG_fester
+[string] fester
+[ud] "(fester<root> / fester)"
+
+NNP -> NNP_United
+[string] United
+[ud] "(United<root> / United)"
+
+NN -> NN_terror
+[string] terror
+[ud] "(terror<root> / terror)"
+
+JJ -> JJ_effective
+[string] effective
+[ud] "(effective<root> / effective)"
+
+SQSQ -> SQSQ_DQ
+[string] DQ
+[ud] "(DQ<root> / DQ)"
+
+MD -> MD_would
+[string] would
+[ud] "(would<root> / would)"
+
+NNP -> NNP_States
+[string] States
+[ud] "(States<root> / States)"
+
+NN -> NN_conflict
+[string] conflict
+[ud] "(conflict<root> / conflict)"
+
+VB -> VB_deploy
+[string] deploy
+[ud] "(deploy<root> / deploy)"
+
+IN -> IN_in
+[string] in
+[ud] "(in<root> / in)"
+
+IN -> IN_on
+[string] on
+[ud] "(on<root> / on)"
+
+NN -> NN_weapon
+[string] weapon
+[ud] "(weapon<root> / weapon)"
+
+NN -> NN_war
+[string] war
+[ud] "(war<root> / war)"
+
+DT -> DT_this
+[string] this
+[ud] "(this<root> / this)"
+
+DT -> DT_the
+[string] the
+[ud] "(the<root> / the)"
+
+DT -> DT_the
+[string] the
+[ud] "(the<root> / the)"
+
+RBS -> RBS_most
+[string] most
+[ud] "(most<root> / most)"
+
+VBG -> VBG_resolve
+[string] resolve
+[ud] "(resolve<root> / resolve)"
+
+VB -> VB_be
+[string] be
+[ud] "(be<root> / be)"
+
+PRPDOLLAR -> PRPDOLLAR_its
+[string] its
+[ud] "(its<root> / its)"
+
+MD -> MD_could
+[string] could
+[ud] "(could<root> / could)"
+
+PERIOD -> PERIOD_PERIOD
+[string] PERIOD
+[ud] "(PERIOD<root> / PERIOD)"
+
+VBZ -> VBZ_report
+[string] report
+[ud] "(report<root> / report)"
+
+NNP -> NNP_Xinhua
+[string] Xinhua
+[ud] "(Xinhua<root> / Xinhua)"
+
+NNP -> NNP_Sheikh
+[string] Sheikh
+[ud] "(Sheikh<root> / Sheikh)"
+
+RB -> RB_before
+[string] before
+[ud] "(before<root> / before)"
+
+JJ -> JJ_religious
+[string] religious
+[ud] "(religious<root> / religious)"
+
+JJ -> JJ_wide
+[string] wide
+[ud] "(wide<root> / wide)"
+
+NNP -> NNP_Tuesday
+[string] Tuesday
+[ud] "(Tuesday<root> / Tuesday)"
+
+IN -> IN_on
+[string] on
+[ud] "(on<root> / on)"
+
+NNS -> NNS_force
+[string] force
+[ud] "(force<root> / force)"
+
+PERIOD -> PERIOD_PERIOD
+[string] PERIOD
+[ud] "(PERIOD<root> / PERIOD)"
+
+IN -> IN_that
+[string] that
+[ud] "(that<root> / that)"
+
+DT -> DT_a
+[string] a
+[ud] "(a<root> / a)"
+
+POS -> POS_SQs
+[string] SQs
+[ud] "(SQs<root> / SQs)"
+
+NN -> NN_range
+[string] range
+[ud] "(range<root> / range)"
+
+IN -> IN_of
+[string] of
+[ud] "(of<root> / of)"
+
+IN -> IN_of
+[string] of
+[ud] "(of<root> / of)"
+
+DT -> DT_the
+[string] the
+[ud] "(the<root> / the)"
+
+NNP -> NNP_Yassin
+[string] Yassin
+[ud] "(Yassin<root> / Yassin)"
+
+COMMA -> COMMA_COMMA
+[string] COMMA
+[ud] "(COMMA<root> / COMMA)"
+
+JJ -> JJ_iraqi
+[string] iraqi
+[ud] "(iraqi<root> / iraqi)"
+
+DT -> DT_a
+[string] a
+[ud] "(a<root> / a)"
+
+NN -> NN_day
+[string] day
+[ud] "(day<root> / day)"
+
+COMMA -> COMMA_COMMA
+[string] COMMA
+[ud] "(COMMA<root> / COMMA)"
+
+VBD -> VBD_condemn
+[string] condemn
+[ud] "(condemn<root> / condemn)"
+
+IN -> IN_of
+[string] of
+[ud] "(of<root> / of)"
+
+NNP -> NNP_Ahmed
+[string] Ahmed
+[ud] "(Ahmed<root> / Ahmed)"
+
+NN -> NN_leader
+[string] leader
+[ud] "(leader<root> / leader)"
+
+NNP -> NNP_Sharon
+[string] Sharon
+[ud] "(Sharon<root> / Sharon)"
+
+JJ -> JJ_political
+[string] political
+[ud] "(political<root> / political)"
+
+NNP -> NNP_Hamas
+[string] Hamas
+[ud] "(Hamas<root> / Hamas)"
+
+NN -> NN_murder
+[string] murder
+[ud] "(murder<root> / murder)"
+
+IN -> IN_in
+[string] in
+[ud] "(in<root> / in)"
+
+IN -> IN_of
+[string] of
+[ud] "(of<root> / of)"
+
+NNP -> NNP_Baghdad
+[string] Baghdad
+[ud] "(Baghdad<root> / Baghdad)"
+
+IN -> IN_of
+[string] of
+[ud] "(of<root> / of)"
+
+PERIOD -> PERIOD_PERIOD
+[string] PERIOD
+[ud] "(PERIOD<root> / PERIOD)"
+
+NN -> NN_assassination
+[string] assassination
+[ud] "(assassination<root> / assassination)"
+
+RB -> RB_west
+[string] west
+[ud] "(west<root> / west)"
+
+COMMA -> COMMA_COMMA
+[string] COMMA
+[ud] "(COMMA<root> / COMMA)"
+
+DT -> DT_the
+[string] the
+[ud] "(the<root> / the)"
+
+NNP -> NNP_Iraq
+[string] Iraq
+[ud] "(Iraq<root> / Iraq)"
+
+COMMA -> COMMA_COMMA
+[string] COMMA
+[ud] "(COMMA<root> / COMMA)"
+
+JJ -> JJ_immediate
+[string] immediate
+[ud] "(immediate<root> / immediate)"
+
+NNS -> NNS_km
+[string] km
+[ud] "(km<root> / km)"
+
+DT -> DT_the
+[string] the
+[ud] "(the<root> / the)"
+
+SQSQ -> SQSQ_DQ
+[string] DQ
+[ud] "(DQ<root> / DQ)"
+
+IN -> IN_against
+[string] against
+[ud] "(against<root> / against)"
+
+VBD -> VBD_promise
+[string] promise
+[ud] "(promise<root> / promise)"
+
+NN -> NN_coalition
+[string] coalition
+[ud] "(coalition<root> / coalition)"
+
+NNP -> NNP_Fallujah
+[string] Fallujah
+[ud] "(Fallujah<root> / Fallujah)"
+
+DT -> DT_the
+[string] the
+[ud] "(the<root> / the)"
+
+NNS -> NNS_cleric
+[string] cleric
+[ud] "(cleric<root> / cleric)"
+
+VBD -> VBD_condemn
+[string] condemn
+[ud] "(condemn<root> / condemn)"
+
+JJ -> JJ_muslim
+[string] muslim
+[ud] "(muslim<root> / muslim)"
+
+NNS -> NNS_soldier
+[string] soldier
+[ud] "(soldier<root> / soldier)"
+
+NN -> NN_revenge
+[string] revenge
+[ud] "(revenge<root> / revenge)"
+
+CD -> CD_DIGITDIGIT
+[string] DIGITDIGIT
+[ud] "(DIGITDIGIT<root> / DIGITDIGIT)"
+
+NN -> NN_board
+[string] board
+[ud] "(board<root> / board)"
+
+CC -> CC_and
+[string] and
+[ud] "(and<root> / and)"
+
+IN -> IN_in
+[string] in
+[ud] "(in<root> / in)"
+
+IQIQ -> IQIQ_DQ
+[string] DQ
+[ud] "(DQ<root> / DQ)"
+
+HYPH -> HYPH_HYPHEN
+[string] HYPHEN
+[ud] "(HYPHEN<root> / HYPHEN)"
+
+NNP -> NNP_Sharq
+[string] Sharq
+[ud] "(Sharq<root> / Sharq)"
+
+NNP -> NNP_Tuesday
+[string] Tuesday
+[ud] "(Tuesday<root> / Tuesday)"
+
+JJ -> JJ_general
+[string] general
+[ud] "(general<root> / general)"
+
+VBN -> VBN_close
+[string] close
+[ud] "(close<root> / close)"
+
+VBZ -> VBZ_report
+[string] report
+[ud] "(report<root> / report)"
+
+HYPH -> HYPH_HYPHEN
+[string] HYPHEN
+[ud] "(HYPHEN<root> / HYPHEN)"
+
+IN -> IN_that
+[string] that
+[ud] "(that<root> / that)"
+
+NNP -> NNP_Awsat
+[string] Awsat
+[ud] "(Awsat<root> / Awsat)"
+
+NN -> NN_strike
+[string] strike
+[ud] "(strike<root> / strike)"
+
+PERIOD -> PERIOD_PERIOD
+[string] PERIOD
+[ud] "(PERIOD<root> / PERIOD)"
+
+NNP -> NNP_Fallujah
+[string] Fallujah
+[ud] "(Fallujah<root> / Fallujah)"
+
+NNP -> NNP_Ash
+[string] Ash
+[ud] "(Ash<root> / Ash)"
+
+DT -> DT_a
+[string] a
+[ud] "(a<root> / a)"
+
+VBD -> VBD_be
+[string] be
+[ud] "(be<root> / be)"
+
+NNP -> NNP_al
+[string] al
+[ud] "(al<root> / al)"
+
+IN -> IN_in
+[string] in
+[ud] "(in<root> / in)"
+
+IN -> IN_with
+[string] with
+[ud] "(with<root> / with)"
+
+DT -> DT_a
+[string] a
+[ud] "(a<root> / a)"
+
+PERIOD -> PERIOD_PERIOD
+[string] PERIOD
+[ud] "(PERIOD<root> / PERIOD)"
+
+VBD -> VBD_leave
+[string] leave
+[ud] "(leave<root> / leave)"
+
+NN -> NN_fight
+[string] fight
+[ud] "(fight<root> / fight)"
+
+CD -> CD_one
+[string] one
+[ud] "(one<root> / one)"
+
+RB -> RB_there
+[string] there
+[ud] "(there<root> / there)"
+
+JJ -> JJ_dead
+[string] dead
+[ud] "(dead<root> / dead)"
+
+VBD -> VBD_clash
+[string] clash
+[ud] "(clash<root> / clash)"
+
+NNP -> NNP_US
+[string] US
+[ud] "(US<root> / US)"
+
+NNS -> NNS_troops
+[string] troops
+[ud] "(troops<root> / troops)"
+
+NNS -> NNS_guerrilla
+[string] guerrilla
+[ud] "(guerrilla<root> / guerrilla)"
+
+NNP -> NNP_Iraqi
+[string] Iraqi
+[ud] "(Iraqi<root> / Iraqi)"
+
+WDT -> WDT_that
+[string] that
+[ud] "(that<root> / that)"
+
+IN -> IN_in
+[string] in
+[ud] "(in<root> / in)"
+
+COMMA -> COMMA_COMMA
+[string] COMMA
+[ud] "(COMMA<root> / COMMA)"
+
+PERIOD -> PERIOD_PERIOD
+[string] PERIOD
+[ud] "(PERIOD<root> / PERIOD)"
+
+JJ -> JJ_big
+[string] big
+[ud] "(big<root> / big)"
+
+VBD -> VBD_be
+[string] be
+[ud] "(be<root> / be)"
+
+IN -> IN_in
+[string] in
+[ud] "(in<root> / in)"
+
+DT -> DT_a
+[string] a
+[ud] "(a<root> / a)"
+
+NNP -> NNP_Ramadi
+[string] Ramadi
+[ud] "(Ramadi<root> / Ramadi)"
+
+NN -> NN_demonstration
+[string] demonstration
+[ud] "(demonstration<root> / demonstration)"
+
+EX -> EX_there
+[string] there
+[ud] "(there<root> / there)"
+
+CD -> CD_one
+[string] one
+[ud] "(one<root> / one)"
+
+IQIQ -> IQIQ_DQ
+[string] DQ
+[ud] "(DQ<root> / DQ)"
+
+PERIOD -> PERIOD_PERIOD
+[string] PERIOD
+[ud] "(PERIOD<root> / PERIOD)"
+
+HYPH -> HYPH_HYPHEN
+[string] HYPHEN
+[ud] "(HYPHEN<root> / HYPHEN)"
+
+IN -> IN_that
+[string] that
+[ud] "(that<root> / that)"
+
+NN -> NN_attack
+[string] attack
+[ud] "(attack<root> / attack)"
+
+RB -> RB_only
+[string] only
+[ud] "(only<root> / only)"
+
+DT -> DT_that
+[string] that
+[ud] "(that<root> / that)"
+
+VBN -> VBN_leave
+[string] leave
+[ud] "(leave<root> / leave)"
+
+NN -> NN_choice
+[string] choice
+[ud] "(choice<root> / choice)"
+
+COMMA -> COMMA_COMMA
+[string] COMMA
+[ud] "(COMMA<root> / COMMA)"
+
+NNPS -> NNPS_Zionists
+[string] Zionists
+[ud] "(Zionists<root> / Zionists)"
+
+IN -> IN_for
+[string] for
+[ud] "(for<root> / for)"
+
+NNPS -> NNPS_Arabs
+[string] Arabs
+[ud] "(Arabs<root> / Arabs)"
+
+NNP -> NNP_Sadr
+[string] Sadr
+[ud] "(Sadr<root> / Sadr)"
+
+DT -> DT_the
+[string] the
+[ud] "(the<root> / the)"
+
+JJ -> JJ_shiite
+[string] shiite
+[ud] "(shiite<root> / shiite)"
+
+VBD -> VBD_be
+[string] be
+[ud] "(be<root> / be)"
+
+JJ -> JJ_criminal
+[string] criminal
+[ud] "(criminal<root> / criminal)"
+
+DT -> DT_the
+[string] the
+[ud] "(the<root> / the)"
+
+NNP -> NNP_al
+[string] al
+[ud] "(al<root> / al)"
+
+IN -> IN_of
+[string] of
+[ud] "(of<root> / of)"
+
+VBD -> VBD_say
+[string] say
+[ud] "(say<root> / say)"
+
+IQIQ -> IQIQ_DQ
+[string] DQ
+[ud] "(DQ<root> / DQ)"
+
+SQSQ -> SQSQ_DQ
+[string] DQ
+[ud] "(DQ<root> / DQ)"
+
+NN -> NN_fighting
+[string] fighting
+[ud] "(fighting<root> / fighting)"
+
+CC -> CC_and
+[string] and
+[ud] "(and<root> / and)"
+
+NN -> NN_jihad
+[string] jihad
+[ud] "(jihad<root> / jihad)"
+
+CC -> CC_and
+[string] and
+[ud] "(and<root> / and)"
+
+SQSQ -> SQSQ_DQ
+[string] DQ
+[ud] "(DQ<root> / DQ)"
+
+NN -> NN_cleric
+[string] cleric
+[ud] "(cleric<root> / cleric)"
+
+JJ -> JJ_radical
+[string] radical
+[ud] "(radical<root> / radical)"
+
+NNP -> NNP_Muqtada
+[string] Muqtada
+[ud] "(Muqtada<root> / Muqtada)"
+
+DT -> DT_the
+[string] the
+[ud] "(the<root> / the)"
+
+VBP -> VBP_have
+[string] have
+[ud] "(have<root> / have)"
+
+NN -> NN_authority
+[string] authority
+[ud] "(authority<root> / authority)"
+
+JJ -> JJ_israeli
+[string] israeli
+[ud] "(israeli<root> / israeli)"
+
+PERIOD -> PERIOD_PERIOD
+[string] PERIOD
+[ud] "(PERIOD<root> / PERIOD)"
+
+NNS -> NNS_endeavor
+[string] endeavor
+[ud] "(endeavor<root> / endeavor)"
+
+DT -> DT_the
+[string] the
+[ud] "(the<root> / the)"
+
+COMMA -> COMMA_COMMA
+[string] COMMA
+[ud] "(COMMA<root> / COMMA)"
+
+DT -> DT_the
+[string] the
+[ud] "(the<root> / the)"
+
+IN -> IN_of
+[string] of
+[ud] "(of<root> / of)"
+
+JJ -> JJ_interim
+[string] interim
+[ud] "(interim<root> / interim)"
+
+PRP -> PRP_it
+[string] it
+[ud] "(it<root> / it)"
+
+DT -> DT_the
+[string] the
+[ud] "(the<root> / the)"
+
+VBG -> VBG_say
+[string] say
+[ud] "(say<root> / say)"
+
+IQIQ -> IQIQ_DQ
+[string] DQ
+[ud] "(DQ<root> / DQ)"
+
+CC -> CC_and
+[string] and
+[ud] "(and<root> / and)"
+
+NN -> NN_region
+[string] region
+[ud] "(region<root> / region)"
+
+IN -> IN_of
+[string] of
+[ud] "(of<root> / of)"
+
+VBD -> VBD_issue
+[string] issue
+[ud] "(issue<root> / issue)"
+
+NNP -> NNP_Council
+[string] Council
+[ud] "(Council<root> / Council)"
+
+DT -> DT_a
+[string] a
+[ud] "(a<root> / a)"
+
+NN -> NN_destruction
+[string] destruction
+[ud] "(destruction<root> / destruction)"
+
+PERIOD -> PERIOD_PERIOD
+[string] PERIOD
+[ud] "(PERIOD<root> / PERIOD)"
+
+PERIOD -> PERIOD_PERIOD
+[string] PERIOD
+[ud] "(PERIOD<root> / PERIOD)"
+
+IN -> IN_in
+[string] in
+[ud] "(in<root> / in)"
+
+DT -> DT_a
+[string] a
+[ud] "(a<root> / a)"
+
+NN -> NN_emptiness
+[string] emptiness
+[ud] "(emptiness<root> / emptiness)"
+
+DT -> DT_the
+[string] the
+[ud] "(the<root> / the)"
+
+NN -> NN_peace
+[string] peace
+[ud] "(peace<root> / peace)"
+
+DT -> DT_a
+[string] a
+[ud] "(a<root> / a)"
+
+DT -> DT_the
+[string] the
+[ud] "(the<root> / the)"
+
+NNP -> NNP_Governing
+[string] Governing
+[ud] "(Governing<root> / Governing)"
+
+NN -> NN_proof
+[string] proof
+[ud] "(proof<root> / proof)"
+
+NN -> NN_communique
+[string] communique
+[ud] "(communique<root> / communique)"
+
+IN -> IN_of
+[string] of
+[ud] "(of<root> / of)"
+
+VBZ -> VBZ_be
+[string] be
+[ud] "(be<root> / be)"
+
+SQSQ -> SQSQ_DQ
+[string] DQ
+[ud] "(DQ<root> / DQ)"
+
+DT -> DT_the
+[string] the
+[ud] "(the<root> / the)"
+
+PERIOD -> PERIOD_PERIOD
+[string] PERIOD
+[ud] "(PERIOD<root> / PERIOD)"
+
+VBD -> VBD_claim
+[string] claim
+[ud] "(claim<root> / claim)"
+
+IN -> IN_to
+[string] to
+[ud] "(to<root> / to)"
+
+MD -> MD_would
+[string] would
+[ud] "(would<root> / would)"
+
+NN -> NN_operation
+[string] operation
+[ud] "(operation<root> / operation)"
+
+NN -> NN_world
+[string] world
+[ud] "(world<root> / world)"
+
+NN -> NN_region
+[string] region
+[ud] "(region<root> / region)"
+
+RB -> RB_not
+[string] not
+[ud] "(not<root> / not)"
+
+VB -> VB_consolidate
+[string] consolidate
+[ud] "(consolidate<root> / consolidate)"
+
+NN -> NN_message
+[string] message
+[ud] "(message<root> / message)"
+
+DT -> DT_the
+[string] the
+[ud] "(the<root> / the)"
+
+DT -> DT_the
+[string] the
+[ud] "(the<root> / the)"
+
+RB -> RB_only
+[string] only
+[ud] "(only<root> / only)"
+
+DT -> DT_the
+[string] the
+[ud] "(the<root> / the)"
+
+MD -> MD_would
+[string] would
+[ud] "(would<root> / would)"
+
+COMMA -> COMMA_COMMA
+[string] COMMA
+[ud] "(COMMA<root> / COMMA)"
+
+NN -> NN_peace
+[string] peace
+[ud] "(peace<root> / peace)"
+
+DT -> DT_this
+[string] this
+[ud] "(this<root> / this)"
+
+JJ -> JJ_terrorist
+[string] terrorist
+[ud] "(terrorist<root> / terrorist)"
+
+NNS -> NNS_act
+[string] act
+[ud] "(act<root> / act)"
+
+VB -> VB_bring
+[string] bring
+[ud] "(bring<root> / bring)"
+
+CC -> CC_and
+[string] and
+[ud] "(and<root> / and)"
+
+IN -> IN_in
+[string] in
+[ud] "(in<root> / in)"
+
+JJ -> JJ_israeli
+[string] israeli
+[ud] "(israeli<root> / israeli)"
+
+IN -> IN_under
+[string] under
+[ud] "(under<root> / under)"
+
+IN -> IN_of
+[string] of
+[ud] "(of<root> / of)"
+
+IN -> IN_of
+[string] of
+[ud] "(of<root> / of)"
+
+DT -> DT_the
+[string] the
+[ud] "(the<root> / the)"
+
+NN -> NN_occupation
+[string] occupation
+[ud] "(occupation<root> / occupation)"
+
+NNS -> NNS_people
+[string] people
+[ud] "(people<root> / people)"
+
+VBD -> VBD_allege
+[string] allege
+[ud] "(allege<root> / allege)"
+
+DT -> DT_that
+[string] that
+[ud] "(that<root> / that)"
+
+COMMA -> COMMA_COMMA
+[string] COMMA
+[ud] "(COMMA<root> / COMMA)"
+
+IN -> IN_that
+[string] that
+[ud] "(that<root> / that)"
+
+VBP -> VBP_relate
+[string] relate
+[ud] "(relate<root> / relate)"
+
+NN -> NN_case
+[string] case
+[ud] "(case<root> / case)"
+
+IN -> IN_with
+[string] with
+[ud] "(with<root> / with)"
+
+VBP -> VBP_suffer
+[string] suffer
+[ud] "(suffer<root> / suffer)"
+
+DT -> DT_the
+[string] the
+[ud] "(the<root> / the)"
+
+NNP -> NNP_Xinhua
+[string] Xinhua
+[ud] "(Xinhua<root> / Xinhua)"
+
+COMMA -> COMMA_COMMA
+[string] COMMA
+[ud] "(COMMA<root> / COMMA)"
+
+JJ -> JJ_american
+[string] american
+[ud] "(american<root> / american)"
+
+IN -> IN_of
+[string] of
+[ud] "(of<root> / of)"
+
+NN -> NN_occupation
+[string] occupation
+[ud] "(occupation<root> / occupation)"
+
+JJ -> JJ_palestinian
+[string] palestinian
+[ud] "(palestinian<root> / palestinian)"
+
+JJ -> JJ_many
+[string] many
+[ud] "(many<root> / many)"
+
+SQSQ -> SQSQ_DQ
+[string] DQ
+[ud] "(DQ<root> / DQ)"
+
+PRPDOLLAR -> PRPDOLLAR_they
+[string] they
+[ud] "(they<root> / they)"
+
+NNP -> NNP_Iraq
+[string] Iraq
+[ud] "(Iraq<root> / Iraq)"
+
+COMMA -> COMMA_COMMA
+[string] COMMA
+[ud] "(COMMA<root> / COMMA)"
+
+DT -> DT_the
+[string] the
+[ud] "(the<root> / the)"
+
+NNPS -> NNPS_Iraqis
+[string] Iraqis
+[ud] "(Iraqis<root> / Iraqis)"
+
+WP -> WP_who
+[string] who
+[ud] "(who<root> / who)"
+
+PERIOD -> PERIOD_PERIOD
+[string] PERIOD
+[ud] "(PERIOD<root> / PERIOD)"
+
+IQIQ -> IQIQ_DQ
+[string] DQ
+[ud] "(DQ<root> / DQ)"
+
+DT -> DT_the
+[string] the
+[ud] "(the<root> / the)"
+
+VBN -> VBN_kill
+[string] kill
+[ud] "(kill<root> / kill)"
+
+RB -> RB_apparently
+[string] apparently
+[ud] "(apparently<root> / apparently)"
+
+NNP -> NNP_Kirkuk
+[string] Kirkuk
+[ud] "(Kirkuk<root> / Kirkuk)"
+
+PERIOD -> PERIOD_PERIOD
+[string] PERIOD
+[ud] "(PERIOD<root> / PERIOD)"
+
+CD -> CD_eleven
+[string] eleven
+[ud] "(eleven<root> / eleven)"
+
+CC -> CC_and
+[string] and
+[ud] "(and<root> / and)"
+
+CD -> CD_two
+[string] two
+[ud] "(two<root> / two)"
+
+IN -> IN_in
+[string] in
+[ud] "(in<root> / in)"
+
+DT -> DT_a
+[string] a
+[ud] "(a<root> / a)"
+
+IN -> IN_near
+[string] near
+[ud] "(near<root> / near)"
+
+NNS -> NNS_trainee
+[string] trainee
+[ud] "(trainee<root> / trainee)"
+
+COMMA -> COMMA_COMMA
+[string] COMMA
+[ud] "(COMMA<root> / COMMA)"
+
+NNS -> NNS_incident
+[string] incident
+[ud] "(incident<root> / incident)"
+
+NNP -> NNP_Tuesday
+[string] Tuesday
+[ud] "(Tuesday<root> / Tuesday)"
+
+NNPS -> NNPS_Iraqis
+[string] Iraqis
+[ud] "(Iraqis<root> / Iraqis)"
+
+DT -> DT_a
+[string] a
+[ud] "(a<root> / a)"
+
+NN -> NN_group
+[string] group
+[ud] "(group<root> / group)"
+
+VBG -> VBG_include
+[string] include
+[ud] "(include<root> / include)"
+
+DT -> DT_some
+[string] some
+[ud] "(some<root> / some)"
+
+NNS -> NNS_sniper
+[string] sniper
+[ud] "(sniper<root> / sniper)"
+
+IN -> IN_on
+[string] on
+[ud] "(on<root> / on)"
+
+DT -> DT_a
+[string] a
+[ud] "(a<root> / a)"
+
+NN -> NN_police
+[string] police
+[ud] "(police<root> / police)"
+
+VBD -> VBD_be
+[string] be
+[ud] "(be<root> / be)"
+
+IN -> IN_of
+[string] of
+[ud] "(of<root> / of)"
+
+NN -> NN_bus
+[string] bus
+[ud] "(bus<root> / bus)"
+
+NNP -> NNP_Hilla
+[string] Hilla
+[ud] "(Hilla<root> / Hilla)"
+
+IN -> IN_in
+[string] in
+[ud] "(in<root> / in)"
+
+NNS -> NNS_police
+[string] police
+[ud] "(police<root> / police)"
+
+COMMA -> COMMA_COMMA
+[string] COMMA
+[ud] "(COMMA<root> / COMMA)"
+
+JJ -> JJ_unrelated
+[string] unrelated
+[ud] "(unrelated<root> / unrelated)"
+
+IN -> IN_by
+[string] by
+[ud] "(by<root> / by)"
+
+IN -> IN_in
+[string] in
+[ud] "(in<root> / in)"
+
+VBN -> VBN_move
+[string] move
+[ud] "(move<root> / move)"
+
+RB -> RB_on
+[string] on
+[ud] "(on<root> / on)"
+
+VBP -> VBP_have
+[string] have
+[ud] "(have<root> / have)"
+
+PERIOD -> PERIOD_PERIOD
+[string] PERIOD
+[ud] "(PERIOD<root> / PERIOD)"
+
+PRP -> PRP_we
+[string] we
+[ud] "(we<root> / we)"
+
+VBP -> VBP_have
+[string] have
+[ud] "(have<root> / have)"
+
+PRP -> PRP_we
+[string] we
+[ud] "(we<root> / we)"
+
+VBN -> VBN_grow
+[string] grow
+[ud] "(grow<root> / grow)"
+
+RP -> RP_up
+[string] up
+[ud] "(up<root> / up)"
+
+PERIOD -> PERIOD_PERIOD
+[string] PERIOD
+[ud] "(PERIOD<root> / PERIOD)"
+
+RB -> RB_even
+[string] even
+[ud] "(even<root> / even)"
+
+VB -> VB_survive
+[string] survive
+[ud] "(survive<root> / survive)"
+
+COMMA -> COMMA_COMMA
+[string] COMMA
+[ud] "(COMMA<root> / COMMA)"
+
+IN -> IN_if
+[string] if
+[ud] "(if<root> / if)"
+
+VBP -> VBP_wonder
+[string] wonder
+[ud] "(wonder<root> / wonder)"
+
+NNP -> NNP_Google
+[string] Google
+[ud] "(Google<root> / Google)"
+
+RB -> RB_now
+[string] now
+[ud] "(now<root> / now)"
+
+NNS -> NNS_people
+[string] people
+[ud] "(people<root> / people)"
+
+MD -> MD_can
+[string] can
+[ud] "(can<root> / can)"
+
+PERIOD -> PERIOD_PERIOD
+[string] PERIOD
+[ud] "(PERIOD<root> / PERIOD)"
+
+VBZ -> VBZ_be
+[string] be
+[ud] "(be<root> / be)"
+
+PRP -> PRP_it
+[string] it
+[ud] "(it<root> / it)"
+
+DT -> DT_that
+[string] that
+[ud] "(that<root> / that)"
+
+VBP -> VBP_know
+[string] know
+[ud] "(know<root> / know)"
+
+PERIOD -> PERIOD_PERIOD
+[string] PERIOD
+[ud] "(PERIOD<root> / PERIOD)"
+
+COMMA -> COMMA_COMMA
+[string] COMMA
+[ud] "(COMMA<root> / COMMA)"
+
+VBG -> VBG_overstate
+[string] overstate
+[ud] "(overstate<root> / overstate)"
+
+PRP -> PRP_I
+[string] I
+[ud] "(I<root> / I)"
+
+DT -> DT_the
+[string] the
+[ud] "(the<root> / the)"
+
+PERIOD -> PERIOD_QUE
+[string] QUE
+[ud] "(QUE<root> / QUE)"
+
+NN -> NN_problem
+[string] problem
+[ud] "(problem<root> / problem)"
+
+JJ -> JJ_other
+[string] other
+[ud] "(other<root> / other)"
+
+NNPS -> NNPS_Marines
+[string] Marines
+[ud] "(Marines<root> / Marines)"
+
+IN -> IN_of
+[string] of
+[ud] "(of<root> / of)"
+
+VBP -> VBP_face
+[string] face
+[ud] "(face<root> / face)"
+
+NNP -> NNP_Fallujah
+[string] Fallujah
+[ud] "(Fallujah<root> / Fallujah)"
+
+IN -> IN_of
+[string] of
+[ud] "(of<root> / of)"
+
+DT -> DT_the
+[string] the
+[ud] "(the<root> / the)"
+
+COMMA -> COMMA_COMMA
+[string] COMMA
+[ud] "(COMMA<root> / COMMA)"
+
+NNS -> NNS_pocket
+[string] pocket
+[ud] "(pocket<root> / pocket)"
+
+NNP -> NNP_US
+[string] US
+[ud] "(US<root> / US)"
+
+NN -> NN_resistance
+[string] resistance
+[ud] "(resistance<root> / resistance)"
+
+PERIOD -> PERIOD_PERIOD
+[string] PERIOD
+[ud] "(PERIOD<root> / PERIOD)"
+
+VBD -> VBD_take
+[string] take
+[ud] "(take<root> / take)"
+
+JJS -> JJS_most
+[string] most
+[ud] "(most<root> / most)"
+
+CC -> CC_but
+[string] but
+[ud] "(but<root> / but)"
+
+RB -> RB_still
+[string] still
+[ud] "(still<root> / still)"
+
+NNP -> NNP_Wednesday
+[string] Wednesday
+[ud] "(Wednesday<root> / Wednesday)"
+
+IN -> IN_on
+[string] on
+[ud] "(on<root> / on)"
+
+NN -> NN_year
+[string] year
+[ud] "(year<root> / year)"
+
+JJ -> JJ_nuclear
+[string] nuclear
+[ud] "(nuclear<root> / nuclear)"
+
+DT -> DT_this
+[string] this
+[ud] "(this<root> / this)"
+
+NN -> NN_item
+[string] item
+[ud] "(item<root> / item)"
+
+PERIOD -> PERIOD_PERIOD
+[string] PERIOD
+[ud] "(PERIOD<root> / PERIOD)"
+
+VBZ -> VBZ_be
+[string] be
+[ud] "(be<root> / be)"
+
+NNP -> NNP_Christmas
+[string] Christmas
+[ud] "(Christmas<root> / Christmas)"
+
+DT -> DT_the
+[string] the
+[ud] "(the<root> / the)"
+
+JJS -> JJS_hottest
+[string] hottest
+[ud] "(hottest<root> / hottest)"
+
+NN -> NN_wish
+[string] wish
+[ud] "(wish<root> / wish)"
+
+NNS -> NNS_weapon
+[string] weapon
+[ud] "(weapon<root> / weapon)"
+
+NNS -> NNS_list
+[string] list
+[ud] "(list<root> / list)"
+
